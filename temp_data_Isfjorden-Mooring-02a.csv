@@ -1,4 +1,4 @@
-time,temp_calibrated_depth_1_nocalib,temp_calibrated_depth_2_nocalib,temp_calibrated_depth_3_nocalib,temp_calibrated_depth_4_nocalib,temp_calibrated_depth_5_nocalib,temp_calibrated_depth_6_nocalib,temp_calibrated_depth_7_nocalib,temp_calibrated_depth_8_nocalib,temp_calibrated_depth_9_nocalib,temp_calibrated_depth_10_nocalib
+time,temp_nocalibrated_depth_9.75m,temp_nocalibrated_depth_8.25m,temp_nocalibrated_depth_6.75m,temp_nocalibrated_depth_5.25m,temp_nocalibrated_depth_4.25m,temp_nocalibrated_depth_3.25m,temp_nocalibrated_depth_2.25m,temp_nocalibrated_depth_1.25m,temp_nocalibrated_depth_0.75m,temp_nocalibrated_depth_0.25m
 2024-09-17 00:00:54,5.1875,5.125,5.1875,5.1875,5.25,5.25,5.3125,5.3125,5.3125,5.1875
 2024-09-17 00:30:45,5.1875,5.125,5.0625,5.1875,5.25,5.1875,5.3125,5.25,5.25,5.1875
 2024-09-17 01:01:27,5.1875,5.25,5.1875,5.1875,5.25,5.1875,5.3125,5.25,5.25,5.1875
